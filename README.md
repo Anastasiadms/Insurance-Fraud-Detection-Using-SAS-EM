@@ -50,6 +50,7 @@ As an analyst, I:
 
 ## Project Workflow (SAS EM)
 *A no-code end-to-end pipeline developed in SAS Enterprise Miner*
+(Images/SAS EM Process Flow.png)
 
 ## Model Performances Summary
 | Model                         | Train Error | Test Error | Notes |
